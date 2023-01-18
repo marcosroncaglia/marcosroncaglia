@@ -1,5 +1,7 @@
 ## Bem-vindxs ao meu perfil! 😁
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou estudando para me tornar um desenvolvedor Front-End. Aqui você vai encontrar alguns de meus projetos que são desenvolvidos em cursos, eventos e projetos pessoais. Fique a vontade para entrar em contato comigo.
+
  <div>
    <a href="https://github.com/marcosroncaglia">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosroncaglia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +16,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Abaixo você pode entrar em contato comigo via LinkedIn
  
 <div> 
   <a href="https://www.linkedin.com/in/marcosroncaglia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
